@@ -26,3 +26,8 @@
   * apache phoenix - similar to drill. adds additional guarantees
   * Presto
   * zeppelin - notebook style
+
+# Install
+#### links:
+* https://www.virtualbox.org/wiki/Linux_Downloads
+* https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html
