@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ml-100k/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/allbut.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/mku.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.genre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.occupation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u1.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u1.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u2.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u2.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u3.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u3.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u4.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u4.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u5.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/u5.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/ua.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/ua.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/ub.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml-100k/ub.test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1caxeUe3IqvhMP1JNovKFqGcDSv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="" />
+      <created>1590780601452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590780601452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
