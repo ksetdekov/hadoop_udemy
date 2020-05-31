@@ -31,3 +31,8 @@
 #### links:
 * https://www.virtualbox.org/wiki/Linux_Downloads
 * https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html
+
+# Using files 
+## file view - explorer
+## cmd line
+```hadoop fs```
