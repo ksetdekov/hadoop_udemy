@@ -36,3 +36,15 @@
 ## file view - explorer
 ## cmd line
 ```hadoop fs```
+
+# Mapreduce
+1. mapper
+2. extract and organize data we care about
+2. sorts and groups the mapped data ("shuffle and sort")
+3. reducer - like counter of the rated movies
+
+Mapreduce in JAVA
+
+STREAMING allows interfacing to other languages (ie Python)
+
+Today we have Spark, Hive.
