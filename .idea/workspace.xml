@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ml-100k/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/allbut.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/mku.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.genre" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.item" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.occupation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u1.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u1.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u2.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u2.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u3.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u3.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u4.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u4.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u5.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/u5.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ua.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ua.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ub.base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-100k/ub.test" afterDir="false" />
-    </list>
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="added data files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1590780601452</updated>
     </task>
+    <task id="LOCAL-00001" summary="added data files">
+      <created>1590781028900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590781028900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +69,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added data files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added data files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590781055290">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590781055290" />
   </component>
 </project>
