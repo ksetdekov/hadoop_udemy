@@ -1,5 +1,3 @@
-from abc import ABC
-
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
@@ -10,10 +8,10 @@ def reducer_count_ratings(key, values):
 
 def mapper_get_ratings(_, line):
     (userID, movieID, rating, timestamp) = line.split('\t')
-    yield rating, 1
+    yield movieID, 1
 
 
-class RatingsBreakdown(MRJob, ABC):
+class RatingsBreakdown(MRJob):
     def steps(self):
         return [
             MRStep(mapper=mapper_get_ratings,

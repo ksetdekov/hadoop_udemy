@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="intro to mapreduce">
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="run first code on hadoop!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/mapreduce_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591541115638</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="run first code on hadoop!">
+      <created>1591543554277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591543554277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +160,8 @@
     <MESSAGE value="intro to mapreduce" />
     <MESSAGE value="started mapreduce_ex.py" />
     <MESSAGE value="added code from lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code from lecture" />
+    <MESSAGE value="run first code on hadoop!" />
+    <option name="LAST_COMMIT_MESSAGE" value="run first code on hadoop!" />
   </component>
   <component name="WindowStateProjectService">
     <state width="937" height="284" key="GridCell.Tab.0.bottom" timestamp="1591542756713">
@@ -177,10 +184,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2263" y="96" width="1022" height="737" key="SettingsEditor/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591541914009" />
-    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590930231124">
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1591543579884">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590930231124" />
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591543579884" />
     <state x="1686" y="455" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591540067382">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
