@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="for each movie" />
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="stretch goal go">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mapreduce_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591545559716</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="stretch goal go">
+      <created>1591546692444</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591546692444</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,25 +176,30 @@
     <MESSAGE value="added code from lecture" />
     <MESSAGE value="run first code on hadoop!" />
     <MESSAGE value="for each movie" />
-    <option name="LAST_COMMIT_MESSAGE" value="for each movie" />
+    <MESSAGE value="stretch goal go" />
+    <option name="LAST_COMMIT_MESSAGE" value="stretch goal go" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="937" height="284" key="GridCell.Tab.0.bottom" timestamp="1591542756713">
+    <state x="2184" y="216" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1591548296433">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="937" height="284" key="GridCell.Tab.0.bottom/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591542756713" />
-    <state width="937" height="284" key="GridCell.Tab.0.center" timestamp="1591542756713">
+    <state x="2184" y="216" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591548296433" />
+    <state width="937" height="284" key="GridCell.Tab.0.bottom" timestamp="1591548114335">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="937" height="284" key="GridCell.Tab.0.center/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591542756713" />
-    <state width="937" height="284" key="GridCell.Tab.0.left" timestamp="1591542756713">
+    <state width="937" height="284" key="GridCell.Tab.0.bottom/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591548114335" />
+    <state width="937" height="284" key="GridCell.Tab.0.center" timestamp="1591548114334">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="937" height="284" key="GridCell.Tab.0.left/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591542756713" />
-    <state width="937" height="284" key="GridCell.Tab.0.right" timestamp="1591542756713">
+    <state width="937" height="284" key="GridCell.Tab.0.center/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591548114334" />
+    <state width="937" height="284" key="GridCell.Tab.0.left" timestamp="1591548114334">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="937" height="284" key="GridCell.Tab.0.right/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591542756713" />
+    <state width="937" height="284" key="GridCell.Tab.0.left/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591548114334" />
+    <state width="937" height="284" key="GridCell.Tab.0.right" timestamp="1591548114334">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="284" key="GridCell.Tab.0.right/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591548114334" />
     <state x="2263" y="96" width="1022" height="737" key="SettingsEditor" timestamp="1591541914009">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>

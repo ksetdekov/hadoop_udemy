@@ -3,7 +3,7 @@ from mrjob.step import MRStep
 
 
 def reducer_count_ratings(key, values):
-    yield key, sum(values)
+    yield None, (sum(values), key)
 
 
 def mapper_get_ratings(_, line):
@@ -11,11 +11,17 @@ def mapper_get_ratings(_, line):
     yield movieID, 1
 
 
+def sorter(_, counts):
+    for key, count in sorted(counts, reverse=True):
+        yield int(count), key
+
+
 class RatingsBreakdown(MRJob):
     def steps(self):
         return [
             MRStep(mapper=mapper_get_ratings,
-                   reducer=reducer_count_ratings)
+                   reducer=reducer_count_ratings),
+            MRStep(reducer=sorter)
         ]
 
 
