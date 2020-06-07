@@ -19,14 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="hadoop intro with ssh">
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="intro to mapreduce">
+      <change afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hadoop_udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hadoop_udemy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590927929371</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="intro to mapreduce">
+      <created>1590930222911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590930222911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,12 +107,17 @@
     <MESSAGE value="added data files" />
     <MESSAGE value="update" />
     <MESSAGE value="hadoop intro with ssh" />
-    <option name="LAST_COMMIT_MESSAGE" value="hadoop intro with ssh" />
+    <MESSAGE value="intro to mapreduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro to mapreduce" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590781055290">
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590930231124">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590781055290" />
+    <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590930231124" />
+    <state x="1686" y="455" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591540067382">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1686" y="455" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591540067382" />
   </component>
 </project>
