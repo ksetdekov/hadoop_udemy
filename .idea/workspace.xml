@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="intro to mapreduce">
-      <change afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hadoop_udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hadoop_udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mapreduce_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590930222911</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="started mapreduce_ex.py">
+      <created>1591540673901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591540673901</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,9 +114,14 @@
     <MESSAGE value="update" />
     <MESSAGE value="hadoop intro with ssh" />
     <MESSAGE value="intro to mapreduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="intro to mapreduce" />
+    <MESSAGE value="started mapreduce_ex.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="started mapreduce_ex.py" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1935" y="343" width="1022" height="737" key="SettingsEditor" timestamp="1591540730723">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1935" y="343" width="1022" height="737" key="SettingsEditor/72.27.1368.783/1440.0.1920.1080@1440.0.1920.1080" timestamp="1591540730723" />
     <state x="1995" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590930231124">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
