@@ -48,3 +48,30 @@ Mapreduce in JAVA
 STREAMING allows interfacing to other languages (ie Python)
 
 Today we have Spark, Hive.
+
+## Running mapreduce with python on hadoop
+intall prerequisites:
+
+* pip
+`yum install python-pip`
+* MRjob
+`
+pip install mrjob==0.5.11
+`
+* Nano
+`yum install nano`
+* data
+```commandline
+wget http://media.sundog-soft.com/hadoop/RatingsBreakdown.py
+wget http://media.sundog-soft.com/hadoop/ml-100k/u.data
+```
+
+## runnin locally
+should work, but get syntax error
+```commandline
+python3 code/mapreduce_ex.py ml-100k/u.data
+```
+run with hadoop
+```commandline
+python RatingsBreakdown.py -r hadoop --hadoop-streaming-jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar u.data
+```

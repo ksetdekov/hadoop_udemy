@@ -1,21 +1,25 @@
+from abc import ABC
+
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
 
-class RatingsBreakdown(MRJob):
+def reducer_count_ratings(key, values):
+    yield key, sum(values)
+
+
+def mapper_get_ratings(_, line):
+    (userID, movieID, rating, timestamp) = line.split('\t')
+    yield rating, 1
+
+
+class RatingsBreakdown(MRJob, ABC):
     def steps(self):
         return [
-            MRStep(mapper=self.mapper_get_ratings,
-                   reducer=self.reducer_count_ratings)
+            MRStep(mapper=mapper_get_ratings,
+                   reducer=reducer_count_ratings)
         ]
 
-    def mapper_get_ratings(self, _, line):
-        (userID, movieID, rating, timestamp) = line.split('\t')
-        yield rating, 1
 
-    def reducer_count_ratings(self, key, value):
-        yield key, sum(value)
-
-
-if __name__ == '__main__':  # if we are executing from cmd - kick this job off
+if __name__ == '__main__':
     RatingsBreakdown.run()
