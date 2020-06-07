@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="run first code on hadoop!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/mapreduce_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mapreduce_ex.py" afterDir="false" />
-    </list>
+    <list default="true" id="72e57eb5-6c2d-42f7-bf8f-a442d98942f0" name="Default Changelist" comment="for each movie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591543554277</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="for each movie">
+      <created>1591545559716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591545559716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +165,8 @@
     <MESSAGE value="started mapreduce_ex.py" />
     <MESSAGE value="added code from lecture" />
     <MESSAGE value="run first code on hadoop!" />
-    <option name="LAST_COMMIT_MESSAGE" value="run first code on hadoop!" />
+    <MESSAGE value="for each movie" />
+    <option name="LAST_COMMIT_MESSAGE" value="for each movie" />
   </component>
   <component name="WindowStateProjectService">
     <state width="937" height="284" key="GridCell.Tab.0.bottom" timestamp="1591542756713">
